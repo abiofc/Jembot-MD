@@ -16,7 +16,7 @@ let tqto = `
 *BIG THANKS TO*
 
 Ramdani Ofc:
-https://github.com/Ramdaniofficial (author)
+https://github.com/abituru (author)
 Nurutomo: 
 https://github.com/Nurutomo
 Istikmal: 
