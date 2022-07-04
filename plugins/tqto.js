@@ -37,8 +37,8 @@ https://github.com/amiruldev20
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'My YouTube',
-               url: 'https://youtube.com/channel/UCB157jomCne961WzYHpG4gg'
+               displayText: 'Group support',
+               url: 'https://chat.whatsapp.com/ERrRJ18SMI20NZbYvq7E3w'
              }
 
            },
