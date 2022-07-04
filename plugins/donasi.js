@@ -9,14 +9,14 @@ let duit = `*───── 「 DONATE 」 ─────*
 *alo om, jangan lupa donasi agar bot lebih berkembang ya om:v*
 *mau donasi berapa pun saya bersyukur om:v*
 *───── 「 PAYMENT 」 ─────*
-• *Gopay:* 089512545999 a/n Ramdani store
-• *Dana:* 089512545999
-• *Ovo:* 089512545999
-• *saweria:* https://saweria.co/ramdaniofficial
-• *linktree:* https://linktr.ee/ramdaniofficial
+• *Gopay:* 0838-1273-7630 a/n  
+• *Dana:* 0838-1273-7630
+• *Ovo:* 0838-1273-7630
+• *saweria:* 
+• *linktree:* 
 ────────────────────
 *hubungi owner jika sudah berdonasi*
-http://wa.me/6289512545999?text=assalamualaikum+bang
+http://wa.me/6288232154376?text=assalamualaikum+bang
 ────────────────────`
 let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/3983334cd235e3c3bb237.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
